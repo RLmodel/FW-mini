@@ -9,6 +9,7 @@ Omnidirectional UGV FW-mini ROS package / YUHESEN robot platform
 
 ```bash
 sudo apt install ros-humble-nav-msgs
+sudo apt install ros-humble-rqt-robot-steering
 ```
 
 <br/>
