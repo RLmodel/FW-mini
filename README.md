@@ -3,6 +3,13 @@ Omnidirectional UGV FW-mini ROS package / YUHESEN robot platform
 
 <br/>
 
+## tested environment
+
+- ubuntu 22.04
+- ROS2 Humble
+
+<br/>
+
 ## dependencies
 
 <br/>
