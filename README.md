@@ -76,6 +76,14 @@ ros2 launch yhs_can_control yhs_can_control.launch.py
 
 <br/>
 
+- cmd_vel control test
+
+```bash
+rqt_robot_steering
+```
+
+<br/>
+
 ## Debug
 
 - check can connection
