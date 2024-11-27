@@ -36,7 +36,7 @@ cd ~/ros2_ws/src
 - clone packages
 
 ```bash
-git clone https://github.com/RLmodel/FW-mini-ROS2.git
+git clone https://github.com/RLmodel/FW-mini.git
 ```
 
 <br/>
