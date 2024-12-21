@@ -1,5 +1,6 @@
 # FW-mini
 Omnidirectional UGV FW-mini ROS package / YUHESEN robot platform
+![20241221_121936](https://github.com/user-attachments/assets/5a4e1341-3c33-47de-a8d2-befbd67c386f)
 
 <br/>
 
