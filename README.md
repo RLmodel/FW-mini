@@ -71,7 +71,7 @@ source install/setup.bash
 - ip link up && set bitrate
 
 ```bash
-sudo ip link can0 up type can bitrate 500000
+sudo ip link set can0 up type can bitrate 500000
 ```
 
 <br/>
