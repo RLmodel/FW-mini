@@ -61,8 +61,8 @@ cd ~/ros2_ws
 - colcon build && source install folder
 
 ```bash
-colcon build --symlink-install --packages-select yhs_can_interfaces\
-colcon build --symlink-install --packages-select yhs_can_control\
+colcon build --symlink-install --packages-select yhs_can_interfaces
+colcon build --symlink-install --packages-select yhs_can_control
 source install/setup.bash
 ```
 
